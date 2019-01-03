@@ -1,0 +1,34 @@
+{
+  "name": "vuepress-plugin-autonav",
+  "version": "0.0.1",
+  "description": "Auto nav links plugin for VuePress 1.x",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmasterish/vuepress-plugin-autonav.git"
+  },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "plugin",
+    "vuepress-plugin",
+    "nav",
+    "links",
+    "nav-links",
+    "menu"
+  ],
+  "author": {
+    "name": "webmasterish",
+    "email": "webmasterish@gmail.com",
+    "url": "https://webmasterish.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/webmasterish/vuepress-plugin-autonav",
+  "bugs": {
+    "url": "https://github.com/webmasterish/vuepress-plugin-autonav/issues"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
