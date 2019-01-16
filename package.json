@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-autonav",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Auto nav links plugin for VuePress 1.x",
   "main": "index.js",
   "scripts": {
