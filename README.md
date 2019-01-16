@@ -4,7 +4,8 @@
 
 [![Build Status](https://img.shields.io/travis/webmasterish/vuepress-plugin-autonav/master.svg?style=flat-square)](https://travis-ci.org/webmasterish/vuepress-plugin-autonav)
 [![npm version](https://img.shields.io/npm/v/vuepress-plugin-autonav.svg?style=flat-square)](http://npm.im/vuepress-plugin-autonav)
-[![MIT License](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT) [![Greenkeeper badge](https://badges.greenkeeper.io/webmasterish/vuepress-plugin-autonav.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://badges.greenkeeper.io/webmasterish/vuepress-plugin-autonav.svg?style=flat-square)](https://greenkeeper.io/)
+[![MIT License](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 
 ## What
