@@ -2,6 +2,7 @@
 
 > Auto nav links plugin for VuePress 1.x
 
+[![Build Status](https://img.shields.io/travis/webmasterish/vuepress-plugin-autonav/master.svg?style=flat-square)](https://travis-ci.org/webmasterish/vuepress-plugin-autonav)
 [![npm version](https://img.shields.io/npm/v/vuepress-plugin-autonav.svg?style=flat-square)](http://npm.im/vuepress-plugin-autonav)
 [![MIT License](https://img.shields.io/npm/l/express.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
