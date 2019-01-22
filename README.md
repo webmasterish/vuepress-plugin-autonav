@@ -14,7 +14,7 @@ Auto populates `themeConfig.nav` with top level pages if it's not already set.
 
 Using a page `frontmatter` you can:
 
-- Enable/disable adding a link to the navbar - a typical would be if you don't 
+- Enable/disable adding a link to the navbar - a typical would be if you don't
   want to add the home page
 - Page order
 
@@ -49,7 +49,9 @@ const autonav_options = {
 };
 
 module.exports = {
-  plugins: [ 'autonav', autonav_options ],
+  plugins: [
+    [ 'autonav', autonav_options ]
+  ]
 }
 ```
 
@@ -65,7 +67,7 @@ title: Page Title
 autonav:
   enable: true
   order: -1
-  
+
 ---
 
 ```
